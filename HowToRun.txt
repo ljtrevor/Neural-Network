@@ -1,0 +1,5 @@
+To Run:
+Navigate to this directory.
+Enter: python RunThis.py
+
+This will execute the main function in RunThis.py
